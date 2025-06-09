@@ -1,0 +1,4 @@
+baseURL = 'https://DittGitHubUsername.github.io/blackharvest-site/'
+languageCode = 'en-us'
+title = 'Black Harvest - Personal Finance'
+theme = 'ananke'
